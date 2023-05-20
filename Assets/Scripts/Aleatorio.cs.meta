@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9df2b444a5d85d041afb80f39a4b73d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jugador: {fileID: 1773623360729482, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
+  - botonFavor: {fileID: 4796042021535493214, guid: b7f5d36a46d92094eaeb81ed5d67b8bf, type: 3}
+  - botonContra: {fileID: 8855167001321734893, guid: 7faf4c7997cd16142b6b2eb041c80c22, type: 3}
+  - votosFavor: {fileID: 4796042021535493214, guid: b7f5d36a46d92094eaeb81ed5d67b8bf, type: 3}
+  - votosContra: {fileID: 2633378324608907210, guid: 2a13e170508bd4b45a546bd0da64f463, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
